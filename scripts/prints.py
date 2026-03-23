@@ -23,3 +23,4 @@ print(len("ABCDEFG"))
 print("-" * 15)
 
 print("You write: " + input("Write something: "))
+print("Sum result: ", ((int(input("Num 1:"))) + (int(input("Num 2: ")))))
